@@ -15,7 +15,7 @@
 
 本镜像仅 6MB，比起其他用于 Heroku 的 Mzdc 镜像，不会因为大量占用资源而被封号。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fmzdc%2Fv2ray-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkdsbls%2Fmzdc)
 
 ## ENV 设定
 
